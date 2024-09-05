@@ -1,0 +1,21 @@
+What in this section?
+For Loops
+Nested Loops
+While Loops
+The Break Keyword
+For...Of Loop
+Iterating Arrays
+Iterating Objects
+
+
+Loops
+Loops allow us to repeat code 
+- print hello 10 times
+- Sum all numbers in an Arrays
+
+There are multiple types:
+-for Loop
+-while Loop
+-for...of Loop
+-for...in Loop
+

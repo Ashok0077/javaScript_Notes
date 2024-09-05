@@ -1,0 +1,7 @@
+Comparison Operators  imp
+Running JavaScript From a File  imp 
+Consitionals : if, else if and else
+truth-y anf false-y values      
+logical AND 
+logical OR 
+logical NOT 

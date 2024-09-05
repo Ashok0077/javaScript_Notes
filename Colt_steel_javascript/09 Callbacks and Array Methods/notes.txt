@@ -1,0 +1,17 @@
+what is in this section
+ForEach
+Map
+Filter
+Some & every
+Reduce
+Arrow Functions
+
+
+Built in methods for array
+ForEach
+Map
+Filter
+find
+Reduce
+Some
+every

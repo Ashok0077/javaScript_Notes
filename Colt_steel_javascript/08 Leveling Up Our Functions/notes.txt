@@ -1,0 +1,9 @@
+what in this section?
+Function Scope
+Block Scope
+Lexical Scope
+Function Expressions
+Higher Order Functions
+Returning Functions
+The keyword "this"
+Adding Methods To ObjectsN

@@ -1,0 +1,17 @@
+// Array is a data structure which is used to store multiple value in a single variable
+// in JavaScript it is not necessary that data present in the array are of same type
+
+
+//Array Basics - Creating and Updating
+//Push & pop
+//shift & unshift
+//concat, indexOf
+//slice & splice
+//multi Dimensional Arrays
+
+
+//Arrays are ordered collections of values
+//list of comments on IG post
+//Colection of levels in a game
+//Songs in a playlist
+

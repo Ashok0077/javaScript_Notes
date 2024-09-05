@@ -1,0 +1,7 @@
+what in this section?
+Default Params
+Spread in Function calls
+Rest params
+Spread with Arrays
+Spread with objects
+Destructuring

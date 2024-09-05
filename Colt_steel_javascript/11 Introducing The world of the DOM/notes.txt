@@ -1,0 +1,10 @@
+What matters in this section?
+Intro to the DOM
+getElementById
+querySelector
+innerHTML and Text
+Changing styles
+classList
+Creating/Removing Elements
+Manipulating Attributes
+Traversing the DOM
