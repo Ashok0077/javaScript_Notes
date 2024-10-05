@@ -8,6 +8,15 @@
 //     },delay);
 // }
 
+const colorChange = async (color,delay)=>{
+    return new Promise((resolve,reject)=>{
+        setTimeout(()=>{
+            document.body.style.backgroundColor = color;
+            resolve('resolved');
+        },delay);
+    })
+}
+
 
 
 
@@ -23,3 +32,32 @@
   
     rainbow();
 
+
+
+
+// fake request server
+
+let fakeRequest = (url)=>{
+    return new Promise((resolve,reject)=>{
+        let delay = Math.floor(Math.random()*2000);
+        if(delay>1000){
+            reject("Request timed out");
+        }else{
+            resolve(`Here is your data from ${url}`); 
+        }
+        }
+    )
+};
+
+async function makeTwoRequest(){
+    try{
+        let data1 = await fakeRequest('google.com');
+        console.log(data1);
+        let data2 = await fakeRequest('facebook.com');
+        console.log(data2);
+    }catch(err){
+        console.log(err);
+    }
+}
+
+makeTwoRequest();
